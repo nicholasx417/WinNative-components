@@ -69,6 +69,7 @@ For Driver manager URL. Paste main repo URL.
 ### Drivers
 **Qualcomm** - Coming soon  
 **Turnip - Stables** - Coming soon
+
 **WinNative - Turnip** - 
 
 ---

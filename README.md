@@ -16,7 +16,7 @@ Contents.Json updated at **12:00 AM CST**
 ### Contents for Winlator by Xnick417x
 Copy the link below, open Winlator, and go to **Settings** -> **Downloadable Content URL** -> **Paste URL**.
 
-    https://raw.githubusercontent.com/Xnick417x/winlator-nightly-wcp/refs/heads/main/contents.json
+    https://raw.githubusercontent.com/nicholasx417/WinNative-Components/refs/heads/main/contents.json
 
 If Contents don't show up. Try turning phone to Landscape View.
 

@@ -25,11 +25,11 @@ For Driver manager URL. Paste main repo URL.
 ---
 
 ### Status
-* **DXVK:** [![Build Status](https://img.shields.io/github/actions/workflow/status/Xnick417x/winlator-nightly-wcp/Dxvk-nightly-Gplasync.yml?label=Build&style=flat-square)](https://github.com/Xnick417x/winlator-nightly-wcp/actions/workflows/Dxvk-nightly-Gplasync.yml)
-* **VKD3D:** [![Build Status](https://img.shields.io/github/actions/workflow/status/Xnick417x/winlator-nightly-wcp/Vkd3d-nightly+arm.yml?label=Build&style=flat-square)](https://github.com/Xnick417x/winlator-nightly-wcp/actions/workflows/Vkd3d-nightly+arm.yml)
-* **FEXCore:** [![Build Status](https://img.shields.io/github/actions/workflow/status/Xnick417x/winlator-nightly-wcp/FexCore-nightly.yml?label=Build&style=flat-square)](https://github.com/Xnick417x/winlator-nightly-wcp/actions/workflows/FexCore-nightly.yml)
-* **Box64 / WOWBox64:** [![Build Status](https://img.shields.io/github/actions/workflow/status/Xnick417x/winlator-nightly-wcp/Box64-nightly+Wowbox.yml?label=Build&style=flat-square)](https://github.com/Xnick417x/winlator-nightly-wcp/actions/workflows/Box64-nightly+Wowbox.yml)
-* **Box64 (WIP):** [![Build Status](https://img.shields.io/github/actions/workflow/status/Xnick417x/winlator-nightly-wcp/Box64-bionic.yml?label=Build&style=flat-square)](https://github.com/Xnick417x/winlator-nightly-wcp/actions/workflows/Box64-bionic.yml)
+* **DXVK:** [![Build Status](https://img.shields.io/github/actions/workflow/status/nicholasx417/WinNative-Components/Dxvk-nightly-Gplasync.yml?label=Build&style=flat-square)](https://github.com/nicholasx417/WinNative-Components/actions/workflows/Dxvk-nightly-Gplasync.yml)
+* **VKD3D:** [![Build Status](https://img.shields.io/github/actions/workflow/status/nicholasx417/WinNative-Components/Vkd3d-nightly+arm.yml?label=Build&style=flat-square)](https://github.com/nicholasx417/WinNative-Components/actions/workflows/Vkd3d-nightly+arm.yml)
+* **FEXCore:** [![Build Status](https://img.shields.io/github/actions/workflow/status/nicholasx417/WinNative-Components/FexCore-nightly.yml?label=Build&style=flat-square)](https://github.com/nicholasx417/WinNative-Components/actions/workflows/FexCore-nightly.yml)
+* **Box64 / WOWBox64:** [![Build Status](https://img.shields.io/github/actions/workflow/status/nicholasx417/WinNative-Components/Box64-nightly+Wowbox.yml?label=Build&style=flat-square)](https://github.com/nicholasx417/WinNative-Components/actions/workflows/Box64-nightly+Wowbox.yml)
+* **Box64 (WIP):** [![Build Status](https://img.shields.io/github/actions/workflow/status/nicholasx417/WinNative-Components/Box64-bionic.yml?label=Build&style=flat-square)](https://github.com/nicholasx417/WinNative-Components/actions/workflows/Box64-bionic.yml)
 
 ---
 
@@ -37,34 +37,34 @@ For Driver manager URL. Paste main repo URL.
 
 | Component | Download | History |
 | :--- | :--- | :--- |
-| **DXVK** (GPLAsync) | [**Download Latest**](https://github.com/nicholasx417/WinNative-components/releases/download/dxvk-nightly-60978eb9/2.7.1-gplasync-60978eb9.wcp) | [View History](https://github.com/Xnick417x/winlator-nightly-wcp/releases?q=dxvk-nightly+NOT+arm64ec+NOT+Weekly&expanded=true) |
-| **DXVK** (ARM64EC) | [**Download Latest**](https://github.com/nicholasx417/WinNative-components/releases/download/dxvk-arm64ec-nightly-60978eb9/2.7.1-arm64ec-60978eb9.wcp) | [View History](https://github.com/Xnick417x/winlator-nightly-wcp/releases?q=dxvk-arm64ec-nightly+NOT+Weekly&expanded=true) |
-| **VKD3D-Proton** (Standard) | [**Download Latest**](https://github.com/nicholasx417/WinNative-components/releases/download/vkd3d-nightly-d2757180/Vkd3d-3.0.1-d2757180.wcp) | [View History](https://github.com/Xnick417x/winlator-nightly-wcp/releases?q=vkd3d-nightly+NOT+arm64ec+NOT+Weekly&expanded=true) |
-| **VKD3D-Proton** (ARM64EC) | [**Download Latest**](https://github.com/nicholasx417/WinNative-components/releases/download/vkd3d-arm64ec-nightly-d2757180/Vkd3d-3.0.1-arm64ec-d2757180.wcp) | [View History](https://github.com/Xnick417x/winlator-nightly-wcp/releases?q=vkd3d-arm64ec-nightly+NOT+Weekly&expanded=true) |
-| **FEXCore** (ARM64EC) | [**Download Latest**](https://github.com/nicholasx417/WinNative-components/releases/download/fex-nightly-2605-ab9a8c62a/FEXCore-2605-ab9a8c62a.wcp) | [View History](https://github.com/Xnick417x/winlator-nightly-wcp/releases?q=fex-nightly+NOT+Weekly&expanded=true) |
-| **Box64** (Standard) | [**Download Latest**](https://github.com/nicholasx417/WinNative-components/releases/download/box64-nightly-0.4.3-0a7b7d4f6/Box64-0.4.3-0a7b7d4f6.wcp) | [View History](https://github.com/Xnick417x/winlator-nightly-wcp/releases?q=box64-nightly+NOT+wowbox64+NOT+bionic+NOT+Weekly&expanded=true) |
-| **Box64** (Non standard - wip) | [**Download Latest**](https://github.com/nicholasx417/WinNative-components/releases/download/bionic-box64-nightly-0.4.3-0a7b7d4f6/Bionic-Box64-0.4.3-0a7b7d4f6.wcp) | [View History](https://github.com/Xnick417x/winlator-nightly-wcp/releases?q=bionic-box64-nightly+NOT+Weekly&expanded=true) |
-| **WOWBox64** | [**Download Latest**](https://github.com/nicholasx417/WinNative-components/releases/download/wowbox64-nightly-0.4.3-0a7b7d4f6/WOWBox64-0.4.3-0a7b7d4f6.wcp) | [View History](https://github.com/Xnick417x/winlator-nightly-wcp/releases?q=wowbox64-nightly+NOT+Weekly&expanded=true) |
+| **DXVK** (GPLAsync) | [**Download Latest**](https://github.com/nicholasx417/WinNative-components/releases/download/dxvk-nightly-60978eb9/2.7.1-gplasync-60978eb9.wcp) | [View History](https://github.com/nicholasx417/WinNative-Components/releases?q=dxvk-nightly+NOT+arm64ec+NOT+Weekly&expanded=true) |
+| **DXVK** (ARM64EC) | [**Download Latest**](https://github.com/nicholasx417/WinNative-components/releases/download/dxvk-arm64ec-nightly-60978eb9/2.7.1-arm64ec-60978eb9.wcp) | [View History](https://github.com/nicholasx417/WinNative-Components/releases?q=dxvk-arm64ec-nightly+NOT+Weekly&expanded=true) |
+| **VKD3D-Proton** (Standard) | [**Download Latest**](https://github.com/nicholasx417/WinNative-components/releases/download/vkd3d-nightly-d2757180/Vkd3d-3.0.1-d2757180.wcp) | [View History](https://github.com/nicholasx417/WinNative-Components/releases?q=vkd3d-nightly+NOT+arm64ec+NOT+Weekly&expanded=true) |
+| **VKD3D-Proton** (ARM64EC) | [**Download Latest**](https://github.com/nicholasx417/WinNative-components/releases/download/vkd3d-arm64ec-nightly-d2757180/Vkd3d-3.0.1-arm64ec-d2757180.wcp) | [View History](https://github.com/nicholasx417/WinNative-Components/releases?q=vkd3d-arm64ec-nightly+NOT+Weekly&expanded=true) |
+| **FEXCore** (ARM64EC) | [**Download Latest**](https://github.com/nicholasx417/WinNative-components/releases/download/fex-nightly-2605-ab9a8c62a/FEXCore-2605-ab9a8c62a.wcp) | [View History](https://github.com/nicholasx417/WinNative-Components/releases?q=fex-nightly+NOT+Weekly&expanded=true) |
+| **Box64** (Standard) | [**Download Latest**](https://github.com/nicholasx417/WinNative-components/releases/download/box64-nightly-0.4.3-0a7b7d4f6/Box64-0.4.3-0a7b7d4f6.wcp) | [View History](https://github.com/nicholasx417/WinNative-Components/releases?q=box64%2B+NOT+WOWBox+NOT+Stable+NOT+Bionic+NOT+MinGW&expanded=true) |
+| **Box64** (Bionic - wip) | [**Download Latest**](https://github.com/nicholasx417/WinNative-components/releases/download/bionic-box64-nightly-0.4.3-0a7b7d4f6/Bionic-Box64-0.4.3-0a7b7d4f6.wcp) | [View History](https://github.com/nicholasx417/WinNative-Components/releases?q=bionic+box64+NOT+Stable+NOT+MinGW&expanded=true) |
+| **WOWBox64** | [**Download Latest**](https://github.com/nicholasx417/WinNative-components/releases/download/wowbox64-nightly-0.4.3-0a7b7d4f6/WOWBox64-0.4.3-0a7b7d4f6.wcp) | [View History](https://github.com/nicholasx417/WinNative-Components/releases?q=WOWBox64%2B+NOT+Stable&expanded=true) |
 
 ### Stable Builds
 
 | Component | Available Releases |
 | :--- | :--- |
-| **DXVK** (GPLAsync) | [**Browse Stable Versions**](https://github.com/Xnick417x/winlator-nightly-wcp/releases/tag/Stable-Dxvk) |
-| **DXVK** (ARM64EC) | [**Browse Stable Versions**](https://github.com/Xnick417x/winlator-nightly-wcp/releases/tag/Stable-Arm64ec-Dxvk) |
-| **VKD3D-Proton** (Standard) | [**Browse Stable Versions**](https://github.com/Xnick417x/winlator-nightly-wcp/releases/tag/Stable-VKD3D) |
-| **VKD3D-Proton** (ARM64EC) | [**Browse Stable Versions**](https://github.com/Xnick417x/winlator-nightly-wcp/releases/tag/Stable-arm64ec-VKD3D) |
-| **FEXCore** (ARM64EC) | [**Browse Stable Versions**](https://github.com/Xnick417x/winlator-nightly-wcp/releases/tag/Stable-FEX) |
-| **Box64** (Standard) | [**Browse Stable Versions**](https://github.com/Xnick417x/winlator-nightly-wcp/releases/tag/Stable-Box64) |
-| **WOWBox64** | [**Browse Stable Versions**](https://github.com/Xnick417x/winlator-nightly-wcp/releases/tag/Stable-wowbox64) |
-| **DXVK Sarek** | [**Browse Stable Versions**](https://github.com/Xnick417x/winlator-nightly-wcp/releases/tag/Sarek) |
+| **DXVK** (GPLAsync) | [**Browse Stable Versions**](https://github.com/nicholasx417/WinNative-Components/releases/tag/Stable-Dxvk) |
+| **DXVK** (ARM64EC) | [**Browse Stable Versions**](https://github.com/nicholasx417/WinNative-Components/releases/tag/Stable-Arm64ec-Dxvk) |
+| **VKD3D-Proton** (Standard) | [**Browse Stable Versions**](https://github.com/nicholasx417/WinNative-Components/releases/tag/Stable-VKD3D) |
+| **VKD3D-Proton** (ARM64EC) | [**Browse Stable Versions**](https://github.com/nicholasx417/WinNative-Components/releases/tag/Stable-arm64ec-VKD3D) |
+| **FEXCore** (ARM64EC) | [**Browse Stable Versions**](https://github.com/nicholasx417/WinNative-Components/releases/tag/Stable-FEX) |
+| **Box64** (Standard) | [**Browse Stable Versions**](https://github.com/nicholasx417/WinNative-Components/releases/tag/Stable-Box64) |
+| **WOWBox64** | [**Browse Stable Versions**](https://github.com/nicholasx417/WinNative-Components/releases/tag/Stable-wowbox64) |
+| **DXVK Sarek** | [**Browse Stable Versions**](https://github.com/nicholasx417/WinNative-Components/releases/tag/Sarek) |
 
 
 ### Wine Layers (Bionic)
-[**Download Assets**](https://github.com/Xnick417x/winlator-nightly-wcp/releases/tag/Wine)
+[**Download Assets**](https://github.com/nicholasx417/WinNative-Components/releases/tag/Wine)
 
 ### Proton Layers (Bionic) 
-[**Download Assets**](https://github.com/Xnick417x/winlator-nightly-wcp/releases/tag/GameNative)
+[**Download Assets**](https://github.com/nicholasx417/WinNative-Components/releases/tag/GameNative)
 
 ### Drivers
 **Qualcomm** - Coming soon  

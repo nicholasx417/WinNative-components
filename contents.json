@@ -253,12 +253,6 @@
   },
   {
     "type": "FEXCore",
-    "verName": "FEX-2601-De",
-    "verCode": "0",
-    "remoteUrl": "https://github.com/Xnick417x/winlator-nightly-wcp/releases/download/Stable-FEX/FEX-2601-De.wcp"
-  },
-  {
-    "type": "FEXCore",
     "verName": "FEX-2601-Denuvo",
     "verCode": "0",
     "remoteUrl": "https://github.com/Xnick417x/winlator-nightly-wcp/releases/download/Stable-FEX/FEX-2601-Denuvo.wcp"

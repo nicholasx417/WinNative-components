@@ -3,60 +3,60 @@
     "type": "DXVK",
     "verName": "Dxvk-2.7.1-gplasync",
     "verCode": "0",
-    "remoteUrl": "https://github.com/Xnick417x/Winlator-Bionic-Nightly-wcp/releases/download/Stable-Dxvk/Dxvk-2.7.1-gplasync.wcp"
+    "remoteUrl": "https://github.com/nicholasx417/WinNative-components/releases/download/Stable-Dxvk/Dxvk-2.7.1-gplasync.wcp"
   },
   {
     "type": "DXVK",
     "verName": "Dxvk-2.7.1-arm64ec-gplasync",
     "verCode": "0",
-    "remoteUrl": "https://github.com/Xnick417x/Winlator-Bionic-Nightly-wcp/releases/download/Stable-Arm64ec-Dxvk/Dxvk-2.7.1-arm64ec-gplasync.wcp"
+    "remoteUrl": "https://github.com/nicholasx417/WinNative-components/releases/download/Stable-Arm64ec-Dxvk/Dxvk-2.7.1-arm64ec-gplasync.wcp"
   },
   {
     "type": "DXVK",
     "verName": "Dxvk-2.4.1-pre-reg",
     "verCode": "0",
-    "remoteUrl": "https://github.com/Xnick417x/Winlator-Bionic-Nightly-wcp/releases/download/Stable-Dxvk/Dxvk-2.4.1-pre-reg.wcp"
+    "remoteUrl": "https://github.com/nicholasx417/WinNative-components/releases/download/Stable-Dxvk/Dxvk-2.4.1-pre-reg.wcp"
   },
   {
     "type": "Box64",
     "verName": "Box64-0.4.2",
     "verCode": "0",
-    "remoteUrl": "https://github.com/Xnick417x/Winlator-Bionic-Nightly-wcp/releases/download/Stable-Box64/Box64-0.4.2.wcp"
+    "remoteUrl": "https://github.com/nicholasx417/WinNative-components/releases/download/Stable-Box64/Box64-0.4.2.wcp"
   },
   {
     "type": "WOWBox64",
     "verName": "Wowbox64-0.4.2",
     "verCode": "0",
-    "remoteUrl": "https://github.com/Xnick417x/Winlator-Bionic-Nightly-wcp/releases/download/Stable-wowbox64/Wowbox64-0.4.2.wcp"
+    "remoteUrl": "https://github.com/nicholasx417/WinNative-components/releases/download/Stable-wowbox64/WOWBox64-0.4.2.wcp"
   },
   {
     "type": "FEXCore",
     "verName": "FEX-2605",
     "verCode": "0",
-    "remoteUrl": "https://github.com/Xnick417x/winlator-nightly-wcp/releases/download/Stable-FEX/FEX-2605.wcp"
+    "remoteUrl": "https://github.com/nicholasx417/WinNative-components/releases/download/Stable-FEX/FEX-2605.wcp"
   },
   {
     "type": "VKD3D",
     "verName": "Vkd3d-proton-3.0.1",
     "verCode": "0",
-    "remoteUrl": "https://github.com/Xnick417x/winlator-nightly-wcp/releases/download/Stable-VKD3D/Vkd3d-proton-3.0.1.wcp"
+    "remoteUrl": "https://github.com/nicholasx417/WinNative-components/releases/download/Stable-VKD3D/Vkd3d-proton-3.0.1.wcp"
   },
   {
     "type": "VKD3D",
     "verName": "Vkd3d-arm64ec-3.0.1",
     "verCode": "0",
-    "remoteUrl": "https://github.com/Xnick417x/winlator-nightly-wcp/releases/download/Stable-arm64ec-VKD3D/Vkd3d-arm64ec-3.0.1.wcp"
+    "remoteUrl": "https://github.com/nicholasx417/WinNative-components/releases/download/Stable-arm64ec-VKD3D/Vkd3d-arm64ec-3.0.1.wcp"
   },
   {
     "type": "Wine",
     "verName": "wine-9.20-x86_64",
     "verCode": "0",
-    "remoteUrl": "https://github.com/Xnick417x/Winlator-Bionic-Nightly-wcp/releases/download/Wine/wine-9.20-x86_64.wcp"
+    "remoteUrl": "https://github.com/nicholasx417/WinNative-components/releases/download/Wine/wine-9.20-x86_64.wcp"
   },
   {
     "type": "Proton",
     "verName": "Proton-10-arm64ec-coffincolors",
     "verCode": "0",
-    "remoteUrl": "https://github.com/Xnick417x/Winlator-Bionic-Nightly-wcp/releases/download/GameNative/Proton-10-arm64ec-coffincolors.wcp"
+    "remoteUrl": "https://github.com/nicholasx417/WinNative-components/releases/download/Proton/Proton-10-arm64ec-coffincolors.wcp"
   }
 ]

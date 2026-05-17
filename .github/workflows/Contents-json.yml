@@ -1,4 +1,4 @@
-name: Update Content JSON
+name: Update Contents JSON
 
 on:
   schedule:
@@ -15,7 +15,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate content.json
+      - name: Generate contents.json
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -48,7 +48,7 @@ jobs:
               ("Box64", "Stable-Box64"),
               ("WOWBox64", "Stable-wowbox64"),
               ("Wine", "Wine"),
-              ("Proton", "GameNative")
+              ("Proton", "Proton")
           ]
 
           def run_gh(cmd):
@@ -116,7 +116,7 @@ jobs:
               json.dump(pack_data, f, indent=2)
           '
 
-      - name: Commit and Push content.json
+      - name: Commit and Push contents.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

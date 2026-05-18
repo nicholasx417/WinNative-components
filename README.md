@@ -117,5 +117,5 @@ The custom build scripts and automated GitHub Actions workflows in this reposito
 ---
 
 <div align="center">
-Maintained by Xnick417 for WinNative.
+Maintained by Xnick417, Maxjivi05, and Ribbit384 for WinNative.
 </div>

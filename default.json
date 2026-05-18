@@ -48,6 +48,18 @@
     "remoteUrl": "https://github.com/nicholasx417/WinNative-components/releases/download/Stable-arm64ec-VKD3D/Vkd3d-arm64ec-3.0.1.wcp"
   },
   {
+    "type": "Driver",
+    "verName": "WN-Turnip-1.01-b_Axxx",
+    "verCode": "0",
+    "remoteUrl": "https://github.com/nicholasx417/WinNative-Components/releases/download/WinNative-Turnip/WN-Turnip-1.01-b_Axxx.zip"
+  },
+  {
+    "type": "Driver",
+    "verName": "WN-Turnip-1.01-p_Axxx",
+    "verCode": "0",
+    "remoteUrl": "https://github.com/nicholasx417/WinNative-Components/releases/download/WinNative-Turnip/WN-Turnip-1.01-p_Axxx.zip"
+  },
+  {
     "type": "Wine",
     "verName": "wine-9.20-x86_64",
     "verCode": "0",

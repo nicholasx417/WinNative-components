@@ -80,9 +80,9 @@ For Driver manager URL. Paste main repo URL.
 
 **MaxsTechReview** - [**MTR Turnip**](https://github.com/nicholasx417/WinNative-Components/releases/tag/MTR)
 
-**DiskDVD** - [**DiskDVD Turnip**](https://github.com/nicholasx417/WinNative-Components/releases/tag/DVD)
+**DiskDVD** - [**DiskDVD Turnip**](https://github.com/nicholasx417/WinNative-Components/releases/tag/DVD) - removed 
 
-**Mr Purple** - [**MrPurple Turnip**](https://github.com/nicholasx417/WinNative-Components/releases/tag/Purple)
+**Mr Purple** - [**MrPurple Turnip**](https://github.com/nicholasx417/WinNative-Components/releases/tag/Purple) - removed
 
 ---
 

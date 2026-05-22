@@ -1,6 +1,5 @@
 Mapped External Keyboard.icp
 18WheelsOfSteel.icp
-4fingerGP.icp
 Adventure 2.icp
 Ajay common V1.2
 Alan Wake.icp

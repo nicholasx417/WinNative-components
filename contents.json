@@ -361,7 +361,7 @@
   },
   {
     "type": "Proton",
-    "verName": "Proton.9.0-x86_64",
+    "verName": "Proton.9.0-x86_64 Steam",
     "verCode": "0",
     "remoteUrl": "https://github.com/nicholasx417/WinNative-Components/releases/download/Proton/Proton.9.0-x86_64.wcp"
   },

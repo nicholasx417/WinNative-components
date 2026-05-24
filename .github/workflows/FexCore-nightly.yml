@@ -1,4 +1,4 @@
-name: Build FEXCore Nightly
+name: Build FexCore Nightly
 
 on:
   schedule:
@@ -17,21 +17,9 @@ jobs:
       uses: actions/checkout@v4
       with:
         repository: FEX-Emu/FEX
-        submodules: false
+        submodules: recursive
         fetch-depth: 0
         path: src
-
-    - name: Sync Submodules & Bypass Broken Vixl
-      run: |
-        cd src
-        git submodule init
-        
-        git config submodule.External/vixl.update none
-        git submodule update --init --recursive
-        
-        git config --unset submodule.External/vixl.update
-        rm -rf External/vixl
-        git clone https://github.com/FEX-Emu/vixl.git External/vixl
 
     - name: Check for Updates
       id: check
@@ -211,18 +199,18 @@ jobs:
       if: env.SHOULD_BUILD == 'true'
       uses: actions/upload-artifact@v4
       with:
-        name: fexcore
+        name: fexcore-nightly
         path: '*.wcp'
 
     - name: Create Release
       if: env.SHOULD_BUILD == 'true'
       uses: softprops/action-gh-release@v1
       with:
-        tag_name: fex-${{ env.VERSION_NAME }}
+        tag_name: fex-nightly-${{ env.VERSION_NAME }}
         files: '*.wcp'
-        name: "FEXCore ${{ env.VERSION_NAME }}"
+        name: "FEXCore Nightly ${{ env.VERSION_NAME }}"
         body: |
-          Automated build of FEXCore.
+          Automated nightly build of FEXCore.
           Commit: https://github.com/FEX-Emu/FEX/commit/${{ env.COMMIT_HASH }}
 
     - name: Cleanup Old Releases
@@ -230,7 +218,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        OLD_RELEASES=$(gh release list --repo ${{ github.repository }} --limit 500 --json tagName,createdAt --jq '[.[] | select(.tagName | startswith("fex-"))] | sort_by(.createdAt) | reverse | .[].tagName' | tail -n +9)
+        OLD_RELEASES=$(gh release list --repo ${{ github.repository }} --limit 500 --json tagName,createdAt --jq '[.[] | select(.tagName | startswith("fex-nightly-"))] | sort_by(.createdAt) | reverse | .[].tagName' | tail -n +9)
         
         for TAG in $OLD_RELEASES; do
           echo "Deleting old release: $TAG"
@@ -252,7 +240,7 @@ jobs:
         git config user.name "github-actions[bot]"
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         
-        DOWNLOAD_URL="https://github.com/${{ github.repository }}/releases/download/fex-${{ env.VERSION_NAME }}/FEXCore-${{ env.VERSION_NAME }}.wcp"
+        DOWNLOAD_URL="https://github.com/${{ github.repository }}/releases/download/fex-nightly-${{ env.VERSION_NAME }}/FEXCore-${{ env.VERSION_NAME }}.wcp"
         BRANCH_NAME="${{ github.ref_name }}"
         
         git checkout $BRANCH_NAME 2>/dev/null || git checkout -b $BRANCH_NAME

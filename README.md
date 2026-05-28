@@ -37,7 +37,7 @@ For Driver manager URL. Paste main repo URL.
 
 | Component | Download | History |
 | :--- | :--- | :--- |
-| **DXVK** (GPLAsync) | [**Download Latest**](https://github.com/nicholasx417/WinNative-Components/releases/download/dxvk-nightly-053c1ccf/2.7.1-gplasync-053c1ccf.wcp) | [View History](https://github.com/nicholasx417/WinNative-Components/releases?q=dxvk-nightly+NOT+arm64ec+NOT+Weekly&expanded=true) |
+| **DXVK** (GPLAsync) | [**Download Latest**](https://github.com/nicholasx417/WinNative-Components/releases/download/dxvk-nightly-64df9525/2.7.1-gplasync-64df9525.wcp) | [View History](https://github.com/nicholasx417/WinNative-Components/releases?q=dxvk-nightly+NOT+arm64ec+NOT+Weekly&expanded=true) |
 | **DXVK** (ARM64EC) | [**Download Latest**](https://github.com/nicholasx417/WinNative-Components/releases/download/dxvk-arm64ec-nightly-64df9525/2.7.1-arm64ec-64df9525.wcp) | [View History](https://github.com/nicholasx417/WinNative-Components/releases?q=dxvk-arm64ec-nightly+NOT+Weekly&expanded=true) |
 | **VKD3D-Proton** (Standard) | [**Download Latest**](https://github.com/nicholasx417/WinNative-Components/releases/download/vkd3d-nightly-492fda46/Vkd3d-3.0.1-492fda46.wcp) | [View History](https://github.com/nicholasx417/WinNative-Components/releases?q=vkd3d-nightly+NOT+arm64ec+NOT+Weekly&expanded=true) |
 | **VKD3D-Proton** (ARM64EC) | [**Download Latest**](https://github.com/nicholasx417/WinNative-Components/releases/download/vkd3d-arm64ec-nightly-492fda46/Vkd3d-3.0.1-arm64ec-492fda46.wcp) | [View History](https://github.com/nicholasx417/WinNative-Components/releases?q=vkd3d-arm64ec-nightly+NOT+Weekly&expanded=true) |

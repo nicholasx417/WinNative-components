@@ -333,12 +333,14 @@
     "type": "Proton",
     "verName": "Proton-11-Beta5-Arm64EC-Steam",
     "verCode": "0",
+    "official": "1",
     "remoteUrl": "https://github.com/nicholasx417/WinNative-Components/releases/download/Proton/Proton-11-Beta5-Arm64EC-Steam.wcp"
   },
   {
     "type": "Proton",
     "verName": "Proton-11.0-5-x86_64",
     "verCode": "0",
+    "official": "1",
     "remoteUrl": "https://github.com/nicholasx417/WinNative-Components/releases/download/Proton/Proton-11.0-5-x86_64.wcp"
   },
   {
